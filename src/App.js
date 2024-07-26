@@ -7,7 +7,7 @@ import {SearchFeed} from './components/SearchFeed'
 import VideoDetail from './components/VideoDetail'
 import ChannelDetail from './components/ChannelDetail'
 
-x
+
 
 function App() {
   return (
